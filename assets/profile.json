@@ -1,0 +1,27 @@
+{
+  "email": "innovate@ronmediagroup.studio",
+  "location": "#BuildingInAfrica 🏗️",
+  "name": "Ronald Hove",
+  "phone": "",
+  "avatar": "https://1.gravatar.com/avatar/1c8e238ba9cdebc8c5f18cc555b01186094ef1fbc4ff7795d2c3ad1b40205686?size=512",
+  "education": [
+    {
+      "title": "Bachelor of Science (BSc) in Computer Science and Information Systems",
+      "meta": "University of the Western Cape"
+    }
+  ],
+  "education_mobile": [
+    {
+      "title": "(BSc) in Computer Science & Information Systems",
+      "meta": "University of the Western Cape"
+    }
+  ],
+  "about": "Hi 👋🏾, I'm a computer scientist passionate about solving complex problems and building Industry-leading applications. I thrive in solo work, teamwork, or leadership roles, blending my technical skills with product management and customer engagement.\n\nMy skill-set is rooted in software engineering, systems architecture, API, and database design. I've worked extensively with cloud systems 🌥️ and AI 🤖.\n\nEvolving and always eager to innovate. I'm on a mission to make technology fun and impactful 🚀.\n\n#BuildingInAfrica 🏗️ 🌍",
+  "socials": [
+    {
+      "name": "innovate@ronmediagroup.studio",
+      "link": "mailto:innovate@ronmediagroup.studio",
+      "icon": "fa fa-envelope"
+    }
+  ]
+}
