@@ -1,0 +1,27 @@
+{
+  "email": "innovate@ronmediagroup.studio",
+  "location": "#BuildingInAfrica 🏗️",
+  "name": "Ronald Hove",
+  "phone": "",
+  "avatar": "https://1.gravatar.com/avatar/1c8e238ba9cdebc8c5f18cc555b01186094ef1fbc4ff7795d2c3ad1b40205686?size=512",
+  "education": [
+    {
+      "title": "Bachelor of Science (BSc) in Computer Science and Information Systems",
+      "meta": "University of the Western Cape"
+    }
+  ],
+  "education_mobile": [
+    {
+      "title": "(BSc) in Computer Science & Information Systems",
+      "meta": "University of the Western Cape"
+    }
+  ],
+  "about": "Hi 👋🏾, I am an engineer from Africa 🌍/ BuildingInAfrica, now turned Indie Founder\n\nMy goal is to connect with like-minded builders and creators from all over the world to help me build a better understanding of people and society in the AI era.\n\nWhile I build my startup fima AI, I'm creating a knowledge repository for my mission and brand called R. O. N™ - Refactor. Our. Nation, contributing to building Africa through valuable, high quality data insights.\n\n#BuildingInAfrica 🏗️ 🌱",
+  "socials": [
+    {
+      "name": "innovate@ronmediagroup.studio",
+      "link": "mailto:innovate@ronmediagroup.studio",
+      "icon": "fa fa-envelope"
+    }
+  ]
+}
